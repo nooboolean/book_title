@@ -35,18 +35,18 @@ export default {
 
 #book-list {
   display: grid;
-  /* grid-template-columns: 1.2fr 1.2fr 1.2fr 1.2fr 1.2fr 1.3fr 1.2fr 1.2fr;
-  grid-template-rows: 20vw 20.5vw 19vw 19.5vw 19.5vw 19vw 19vw 19.5vw 20vw 19.5vw 19vw 17.5vw 20vw; */
-  grid-template-columns: 1.3fr 1.2fr 1fr 1fr 1.5fr 1.5fr 1fr 1.2fr;
-  grid-template-rows: 23vw 23vw 22vw 22.5vw 22vw 22vw 22vw 22vw 22vw 22vw 22vw 22.5vw;
+  grid-template-columns: 1.2fr 1.2fr 1.2fr 1.2fr 1.2fr 1.3fr 1.2fr 1.2fr;
+  grid-template-rows: 20vw 20.5vw 19vw 19.5vw 19.5vw 19vw 19vw 19.5vw 20vw 19.5vw 19vw 17.5vw 20vw;
+  /* grid-template-columns: 1.3fr 1.2fr 1fr 1fr 1.5fr 1.5fr 1fr 1.2fr;
+  grid-template-rows: 23vw 23vw 22vw 22.5vw 22vw 22vw 22vw 22vw 22vw 22vw 22vw 22.5vw; */
 }
 
 @media (max-width: 480px) {
   #book-list {
-    /* grid-template-columns: 1.2fr 1.2fr 1.2fr 1.3fr;
-    grid-template-rows: 42.5vw 38vw 38vw 38vw 39vw 39vw 39vw 38.5vw 37.5vw 39vw 37.5vw 39vw 38.5vw 39vw 37vw 36vw 39.5vw 37.5vw 37.5vw 37.5vw 37.5vw 39vw 38vw 38vw 39vw; */
-    grid-template-columns: 1fr 1.4fr 1.2fr 1.3fr;
-    grid-template-rows: 45.5vw 42.5vw 40.5vw 44vw 41vw 41vw 41vw 42vw 45vw 39.5vw 40vw 40vw 41vw 41vw 41vw 42vw 42vw 46vw 38vw 42vw 41vw 41vw 42vw 41vw 42vw;
+    grid-template-columns: 1.2fr 1.2fr 1.2fr 1.3fr;
+    grid-template-rows: 42.5vw 38vw 38vw 38vw 39vw 39vw 39vw 38.5vw 37.5vw 39vw 37.5vw 39vw 38.5vw 39vw 37vw 36vw 39.5vw 37.5vw 37.5vw 37.5vw 37.5vw 39vw 38vw 38vw 39vw;
+    /* grid-template-columns: 1fr 1.4fr 1.2fr 1.3fr;
+    grid-template-rows: 45.5vw 42.5vw 40.5vw 44vw 41vw 41vw 41vw 42vw 45vw 39.5vw 40vw 40vw 41vw 41vw 41vw 42vw 42vw 46vw 38vw 42vw 41vw 41vw 42vw 41vw 42vw; */
   }
 }
 
