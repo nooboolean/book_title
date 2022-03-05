@@ -5,7 +5,7 @@
     </router-link> -->
   </div>
   <div id="header-center">
-    <p id="app-name">Book. Title</p>
+    <h1 id="app-name">Book. Title</h1>
     <!-- <div class="selected-category">今日のトピック</div> -->
   </div>
   <div id="header-right">
