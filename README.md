@@ -1,4 +1,5 @@
 # book_title
+本の表紙買いをWeb上で行うことができるサイト
 
 ## Project setup
 ```
